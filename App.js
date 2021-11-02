@@ -42,4 +42,8 @@ export default function App() {
       </Drawer.Navigator>
     </NavigationContainer>
   );
+
+  <div>
+    
+  </div>
 }
